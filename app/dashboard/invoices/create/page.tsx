@@ -18,9 +18,7 @@ export default async function Page() {
             },
           ]}
         />
-        <Form sellers={sellers}>
-
-        </Form>
+        <Form sellers={sellers} />
       </div>
     </main>
   );
